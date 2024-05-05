@@ -1,4 +1,4 @@
-# Google_Home_Page_Clone
+# Google_Home_Page
 Cloning Google Home Page.
 
 # Technologies Used:
